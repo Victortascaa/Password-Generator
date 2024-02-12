@@ -7,4 +7,4 @@ Somente uma resolução de um problema pessoal, certo dia precisei gerar uma sen
 
 <a href="https://password-generator-two-ruddy.vercel.app/" target="_blank">Teste aqui</a>
 
-![image](https://github.com/Victortascaa/Password-Generator/assets/105996897/32774631-c649-46ed-a39c-3d1ca924fe1b)
+![image](https://github.com/Victortascaa/Password-Generator/assets/105996897/c4ae2d69-63ff-4fec-8c28-ee0ad59c4565)
